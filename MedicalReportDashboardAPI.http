@@ -1,0 +1,6 @@
+@MedicalReportDashboardAPI_HostAddress = http://localhost:5268
+
+GET {{MedicalReportDashboardAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
